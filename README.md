@@ -179,7 +179,7 @@ As you can see - the result is the same
 
 ### Requirement with available options to choose
 
-Additionally *procuriosity_conversions* covers a following: ability to include an applicable *options* into used requirement. Such an approach allows prescribing more precise ranges of expected values together with specific coefficients of conversion. 
+Additionally *conversions* covers a following: ability to include an applicable *options* into used requirement. Such an approach allows prescribing more precise ranges of expected values together with specific coefficients of conversion. 
 
 For example: if CA requires EO to have at least one Google certified specialist on his board but ready to grant EO with additional advantage if such EO has more than one guy:
 
